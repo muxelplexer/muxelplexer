@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Sebastian Muxel, better known as `muxelplexer` on the internet.
-If you want to know any more about me, feel free to contact me at my e-mail or check out [my blog]().
+If you want to know any more about me, feel free to contact me at my e-mail or check out [my blog](https://muxel.dev).
 
 ## Spotlight
 
