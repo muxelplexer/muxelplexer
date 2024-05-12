@@ -18,15 +18,5 @@ Some of my projects i like to highlight:
     Larkspur is the name for the couple services i run publicly on my server. Currently there is an Akkoma instance allowing
     access to the federated ActivityPub social networks. There is also a Git server and a backend system in place.
 
-## Non Programming Projects
-
-In my free time i administrate [larkspur](https://larkspur.one): a free multi-service hosted by myself.  
-It currently has following services running:  
-
-- [fediverse](https://larkspur.one)  
-    The main domain directly serves the running Akkoma Instance. Logins are currently on a aprooval basis as i could not be arsed enough to setup a working e-mail server yet.
-- [gitea](https://git.larkspur.one)  
-    Larkspur users can message me for access to the gitea instance. A mostly locked down private instance for source code hosting.
-
 *please note that all views expressed by me are exclusively my own and do not reflect the views of my current employer or
 other associated organizations*
